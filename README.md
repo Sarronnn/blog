@@ -2,9 +2,9 @@
 
 This is a trivial blog app, started with create-react-app.
 
-It works entirely within memory, so reloads blow everything away except for the first two mock articles.
+It works with firebase, so data can be added using firebase.
 
-- To use this Blog App, users must first signi in. 
+- To use this Blog App, users must first sign in. 
 
 
 - Then they are able to add articles onto the blog by clicking on the "New Articles" button, and then type in a title and a body. 

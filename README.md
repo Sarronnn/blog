@@ -14,3 +14,6 @@ It works with firebase, so data can be added using firebase.
 
 
 - Atricles can be added from the web app itself, or from firebase. 
+
+Link to the webApp : http://localhost:3003
+Link to this repo: https://github.com/Sarronnn/blog

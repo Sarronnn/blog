@@ -12,7 +12,10 @@ header {
   background-color: black;
   color: rgb(246, 243, 243);
   grid-column: 1 / span 2;
-  padding: 10px 5px;
+  padding: 35px 20px;
+  font-size: 30px;
+  font-weight: 300;
+  font-style: italic;
 }
 
 form {
@@ -35,7 +38,12 @@ article {
 }
 
 nav {
-  background-color: #dee9ff;
+  background-image: linear-gradient(
+    rgba(228, 47, 219, 0.5),
+    rgba(184, 184, 141, 0.5)
+  );
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
 }
 
 nav p:hover {

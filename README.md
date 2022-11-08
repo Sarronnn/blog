@@ -1,4 +1,4 @@
-# A Blog Starter App
+# My Blog...
 
 This is a trivial blog app, started with create-react-app.
 

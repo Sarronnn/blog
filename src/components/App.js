@@ -18,7 +18,10 @@ export default function App() {
   // then "setArticles" writes them into the React state.
   useEffect(() => {
     if (user) {
-      fetchArticles().then(setArticles);
+      fetchArticles().then((articles) => {
+        setArticles(articles);
+        console.log(articles);
+      });
     }
   }, [user]);
 
